@@ -1,14 +1,14 @@
 //
-//  Demo_Of_Swift_Hello_WorldUITests.swift
-//  Demo Of Swift Hello WorldUITests
+//  Demo_Swift_Hello_WorldUITests.swift
+//  Demo Swift Hello WorldUITests
 //
-//  Created by Joel Parker Henderson on 2016-04-19.
+//  Created by Joel Parker Henderson on 2016-04-22.
 //  Copyright © 2016 Joel Parker Henderson. All rights reserved.
 //
 
 import XCTest
 
-class Demo_Of_Swift_Hello_WorldUITests: XCTestCase {
+class Demo_Swift_Hello_WorldUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()

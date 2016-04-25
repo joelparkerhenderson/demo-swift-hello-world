@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  Demo Of Swift Hello World
+//  Demo Swift Hello World
 //
-//  Created by Joel Parker Henderson on 2016-04-19.
+//  Created by Joel Parker Henderson on 2016-04-22.
 //  Copyright © 2016 Joel Parker Henderson. All rights reserved.
 //
 

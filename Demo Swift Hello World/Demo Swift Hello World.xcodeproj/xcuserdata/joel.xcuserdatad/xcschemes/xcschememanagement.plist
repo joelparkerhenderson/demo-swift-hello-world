@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Demo Of Swift Hello World.xcscheme</key>
+		<key>Demo Swift Hello World.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>5DBBBBE21CC724BF00DED7FC</key>
+		<key>5D2CA2611CCB04C5008F3BBB</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>5DBBBBF91CC724C000DED7FC</key>
+		<key>5D2CA2781CCB04C6008F3BBB</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>5DBBBC041CC724C000DED7FC</key>
+		<key>5D2CA2831CCB04C6008F3BBB</key>
 		<dict>
 			<key>primary</key>
 			<true/>

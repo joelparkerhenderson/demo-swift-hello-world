@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5DBBBBE21CC724BF00DED7FC"
-               BuildableName = "Demo Of Swift Hello World.app"
-               BlueprintName = "Demo Of Swift Hello World"
-               ReferencedContainer = "container:Demo Of Swift Hello World.xcodeproj">
+               BlueprintIdentifier = "5D2CA2611CCB04C5008F3BBB"
+               BuildableName = "Demo Swift Hello World.app"
+               BlueprintName = "Demo Swift Hello World"
+               ReferencedContainer = "container:Demo Swift Hello World.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5DBBBBF91CC724C000DED7FC"
-               BuildableName = "Demo Of Swift Hello WorldTests.xctest"
-               BlueprintName = "Demo Of Swift Hello WorldTests"
-               ReferencedContainer = "container:Demo Of Swift Hello World.xcodeproj">
+               BlueprintIdentifier = "5D2CA2781CCB04C6008F3BBB"
+               BuildableName = "Demo Swift Hello WorldTests.xctest"
+               BlueprintName = "Demo Swift Hello WorldTests"
+               ReferencedContainer = "container:Demo Swift Hello World.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5DBBBC041CC724C000DED7FC"
-               BuildableName = "Demo Of Swift Hello WorldUITests.xctest"
-               BlueprintName = "Demo Of Swift Hello WorldUITests"
-               ReferencedContainer = "container:Demo Of Swift Hello World.xcodeproj">
+               BlueprintIdentifier = "5D2CA2831CCB04C6008F3BBB"
+               BuildableName = "Demo Swift Hello WorldUITests.xctest"
+               BlueprintName = "Demo Swift Hello WorldUITests"
+               ReferencedContainer = "container:Demo Swift Hello World.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5DBBBBE21CC724BF00DED7FC"
-            BuildableName = "Demo Of Swift Hello World.app"
-            BlueprintName = "Demo Of Swift Hello World"
-            ReferencedContainer = "container:Demo Of Swift Hello World.xcodeproj">
+            BlueprintIdentifier = "5D2CA2611CCB04C5008F3BBB"
+            BuildableName = "Demo Swift Hello World.app"
+            BlueprintName = "Demo Swift Hello World"
+            ReferencedContainer = "container:Demo Swift Hello World.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5DBBBBE21CC724BF00DED7FC"
-            BuildableName = "Demo Of Swift Hello World.app"
-            BlueprintName = "Demo Of Swift Hello World"
-            ReferencedContainer = "container:Demo Of Swift Hello World.xcodeproj">
+            BlueprintIdentifier = "5D2CA2611CCB04C5008F3BBB"
+            BuildableName = "Demo Swift Hello World.app"
+            BlueprintName = "Demo Swift Hello World"
+            ReferencedContainer = "container:Demo Swift Hello World.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5DBBBBE21CC724BF00DED7FC"
-            BuildableName = "Demo Of Swift Hello World.app"
-            BlueprintName = "Demo Of Swift Hello World"
-            ReferencedContainer = "container:Demo Of Swift Hello World.xcodeproj">
+            BlueprintIdentifier = "5D2CA2611CCB04C5008F3BBB"
+            BuildableName = "Demo Swift Hello World.app"
+            BlueprintName = "Demo Swift Hello World"
+            ReferencedContainer = "container:Demo Swift Hello World.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
