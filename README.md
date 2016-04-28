@@ -6,77 +6,65 @@ This README describes how to create the project, if you want to try doing it you
 
 ## How to create the project
 
-<ul>
+1. Launch Xcode.
 
-<li>Launch Xcode.
-<ul>
-<li>Choose "New Project".</li>
-</ul>
-</li>
+  * Choose "New Project".
 
-<li>You see the dialog "Choose a template for your new project".
-<ul>
-<li>Select "iOS" then "Application".</li>
-<li>Choose the "Single View Application" icon.</li>
-<li>Click the button "Next".</li>
-</ul>
-</li>
+1. You see the dialog "Choose a template for your new project".
 
-<li>You see the dialog "Choose options for your new project".
-<ul>
-<li>For "Product Name", type "Demo Swift Hello World".</li>
-<li>For "Organization Name", type your own, typical a company name, team name, or similiar. For example, "My Example Company Name".</li>
-<li>For "Organization Identifier", type your own, typically a reverse-domain-name. For example, "com.example".</li>
-<li>Click the button "Next".</li>
-</ul>
-</li>
+  * Select "iOS" then "Application".
 
-<li>You see the file chooser.
-<ul>
-<li>Choose where to save your project.</li>
-<li>Click the button "Create".</li>
-</ul>
-</li>
+  * Choose the "Single View Application" icon.
 
-<li>Run it.
-<ul>
-<li>Choose the menu "Product" then the menu item "Run".</li>
-<li>You should see the simulator launch, then a white screen.</li>
-<li>If it runs, then congratulations!</li>
-</ul>
-</li>
+  * Click the button "Next".
 
-</ul>
+1. You see the dialog "Choose options for your new project".
+
+  * For "Product Name", type "Demo Swift Hello World".
+
+  * For "Organization Name", type your own, typical a company name, team name, or similiar. For example, "My Example Company Name".
+
+  * For "Organization Identifier", type your own, typically a reverse-domain-name. For example, "com.example".
+
+  * Click the button "Next".
+
+1. You see the file chooser.
+
+  * Choose where to save your project.
+
+  * Click the button "Create".
 
 ## How to create the label
 
-<ul>
+1. Open the view.
 
-<li>Open the view.
-<ul>
-<li>In the left Xcode column, click the icon "Main.storyboard".</li>
-<li>In the next Xcode column, click the icon "View Controller Scene", then "View Controller", then "View".</li>
-<li>In the central Xcode column, you see the "View Controller" layout area.</li>
-</ul>
-</li>
+  * In the left Xcode column, click the icon "Main.storyboard".
 
-<li>Add a label.
-<ul>
-<li>In the lower-right Xcode area, scroll until you see the "Label" item.</li>
-<li>Drag-and-drop the "Label" item to the middle of the View Controller layout area.</li>
-<li>Edit the label text to say "Hello World".
-</ul>
-</li>
+  * In the next Xcode column, click the icon "View Controller Scene", then "View Controller", then "View".
 
-<li>Center the label.
-<ul>
-<li>Control-click-press the label and drag right, which triggers a popup menu; choose "Center Vertically in Container"</li>
-<li>Control-click-press the label and drag down, which triggers a popup menu; choose "Center Horizontally in Container"</li>
-<li>In the central Xcode column, in the lower right area, click the icon that is a triangle between two vertical lines, which triggers a popup menu; choose "Reset to Suggested Contraints".</li>
-</ul>
-</li>
+  * In the central Xcode column, you see the "View Controller" layout area.
 
-</ul>
+1. Add a label.
+
+  * In the lower-right Xcode area, scroll until you see the "Label" item.
+
+  * Drag-and-drop the "Label" item to the middle of the View Controller layout area.
+
+  * Edit the label text to say "Hello World".
+
+## Center the label
+
+1. Center the label by adding constraints.
+
+  * Control-click-press the label and drag right, which triggers a popup menu; choose "Center Vertically in Container"
+
+  * Control-click-press the label and drag down, which triggers a popup menu; choose "Center Horizontally in Container"
+
+1. Refresh the view by resetting the constraints.
+
+  * In the central Xcode column, in the lower right area, click the icon that is a triangle between two vertical lines, which triggers a popup menu; choose "Reset to Suggested Contraints".
+
+  * You see the text field change size to be its correct size, which is flush with the view and its margins.
 
 ## Tracking
 
