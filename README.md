@@ -52,7 +52,7 @@ This README describes how to create the project, if you want to try doing it you
 
   * Edit the label text to say "Hello World".
 
-## Center the label
+## How to center the label
 
 1. Center the label by adding constraints.
 
