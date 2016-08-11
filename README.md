@@ -1,6 +1,13 @@
 # Demo Swift Hello World
 
-This is a demonstration of Apple iOS Xcode using the Swift language to print "Hello World" on the screen.
+This demonstration shows:
+
+  * The [Swift](http://swift.org) programming language with
+    [Apple](http://apple.com)
+    [iOS](http://www.apple.com/ios/)
+    [Xcode](https://developer.apple.com/xcode/)
+
+  * How to create a view that shows "Hello World" on the screen.
 
 This README describes how to create the project, if you want to try doing it yourself.
 
