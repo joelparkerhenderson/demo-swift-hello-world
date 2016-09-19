@@ -1,25 +1,30 @@
 # Demo Swift Hello World
 
+<img src="README.png" alt="Hello World" style="width: 100%;"/>
+
 This demonstration shows:
 
-  * The [Swift](http://swift.org) programming language with
+  * The [Swift 3](http://swift.org) programming language with
     [Apple](http://apple.com)
-    [iOS](http://www.apple.com/ios/)
-    [Xcode](https://developer.apple.com/xcode/)
+    [iOS 10 ](http://www.apple.com/ios/) and
+    [Xcode 8](https://developer.apple.com/xcode/)
 
   * How to create a view that shows "Hello World" on the screen.
 
-This README describes how to create the project, if you want to try doing it yourself.
+Your can get the project by cloning this repo.
+
+Or if you prefer to learn how to create the project yourself, then this README explains how to do it.
+
 
 ## How to create the project
 
-1. Launch Xcode.
+1. Launch Xcode. 
 
-  * Choose "New Project".
+1. Choose "File" → "New" → "Project". 
 
 1. You see the dialog "Choose a template for your new project".
 
-  * Select "iOS" then "Application".
+  * Choose the "iOS" radio button.
 
   * Choose the "Single View Application" icon.
 
@@ -40,6 +45,9 @@ This README describes how to create the project, if you want to try doing it you
   * Choose where to save your project.
 
   * Click the button "Create".
+
+1. If Xcode prompts you to choose a development team, then do it.
+
 
 ## How to create the label
 
@@ -71,13 +79,14 @@ This README describes how to create the project, if you want to try doing it you
 
   * In the central Xcode column, in the lower right area, click the icon that is a triangle between two vertical lines, which triggers a popup menu; choose "Reset to Suggested Contraints".
 
-  * You see the text field change size to be its correct size, which is flush with the view and its margins.
+  * The text field resets to its constraints, which make it the correct size, and center it in the view.
+
 
 ## Tracking
 
 * Package: demo_swift_hello_world
-* Version: 1.0.0
+* Version: 2.0.0
 * Created: 2016-04-09
-* Updated: 2016-08-11
+* Updated: 2016-09-18
 * License: BSD, GPL, MIT
 * Contact: Joel Parker Henderson (joel@joelparkerhenderson.com)

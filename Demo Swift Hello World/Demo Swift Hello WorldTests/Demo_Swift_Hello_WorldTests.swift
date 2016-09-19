@@ -2,7 +2,7 @@
 //  Demo_Swift_Hello_WorldTests.swift
 //  Demo Swift Hello WorldTests
 //
-//  Created by Joel Parker Henderson on 2016-04-22.
+//  Created by Joel Parker Henderson on 2016-09-18.
 //  Copyright © 2016 Joel Parker Henderson. All rights reserved.
 //
 
@@ -28,7 +28,7 @@ class Demo_Swift_Hello_WorldTests: XCTestCase {
     
     func testPerformanceExample() {
         // This is an example of a performance test case.
-        self.measureBlock {
+        self.measure {
             // Put the code you want to measure the time of here.
         }
     }
