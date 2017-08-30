@@ -4,12 +4,18 @@
 
 This demonstration shows:
 
-  * The [Swift 3](http://swift.org) programming language with
+  * The [Swift](http://swift.org) programming language with
     [Apple](http://apple.com)
-    [iOS 10 ](http://www.apple.com/ios/) and
-    [Xcode 8](https://developer.apple.com/xcode/)
+    [iOS](http://www.apple.com/ios/) and
+    [Xcode](https://developer.apple.com/xcode/)
 
   * How to create a view that shows "Hello World" on the screen.
+
+There are multiple git branches, so pick the one you want:
+
+  * swift-3: Swift version 3, iOS version 8, Xcode version 10.
+
+  * swift-4: Swift version 4, iOS version 9, Xcode version 11. All beta.
 
 Your can get the project by cloning this repo.
 
