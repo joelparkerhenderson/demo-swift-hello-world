@@ -32,106 +32,106 @@ To use this project:
 
 1. You see the dialog "Choose a template for your new project".
 
-  * Choose the "iOS" radio button.
+    * Choose the "iOS" radio button.
 
-  * Choose the "Single View Application" icon.
+    * Choose the "Single View Application" icon.
 
-  * Tap the button "Next".
+    * Tap the button "Next".
 
 1. You see the dialog "Choose options for your new project".
 
-  * For "Product Name", type "Demo Swift Hello World".
+    * For "Product Name", type "Demo Swift Hello World".
 
-  * For "Organization Name", type anything you want; typically this is your company's name, or team's name, or similiar. For example, "Example Company".
+    * For "Organization Name", type anything you want. Typically this is your company's name, or team's name, or similiar. For example, "Example Company".
 
-  * For "Organization Identifier", type anything you want; typically this is your company's reverse domain name. For example, "com.example".
+    * For "Organization Identifier", type anything you want. Typically this is your company's reverse domain name. For example, "com.example".
 
-  * Tap the button "Next".
+    * Tap the button "Next".
 
 1. You see the file chooser.
 
-  * Choose where to save your project.
+    * Choose where to save your project.
 
-  * Tap the button "Create".
+    * Tap the button "Create".
 
-  * Xcode creates the project.
+    * Xcode creates the project.
 
 
 ## How to sign the project
 
 1. If Xcode shows a "Signing" area with a "Status" alert icon, here's how to solve it.
 
-  * Xcode may show a message such as "Signing for "Demo Swift Hello World" requires a development team. Select a development team in the project editor."
+    * Xcode may show a message such as "Signing for "Demo Swift Hello World" requires a development team. Select a development team in the project editor."
 
-  * In the same "Signing" section, choose the "Team" dropdown, and choose your Apple ID.
+    * In the same "Signing" section, choose the "Team" dropdown, and choose your Apple ID.
 
-  * If there's no Apple ID, then you need to add yours: Xcode → Preferences → Accounts → the "+" button → Add Apple ID
+    * If there's no Apple ID, then you need to add yours: Xcode → Preferences → Accounts → the "+" button → Add Apple ID
 
 
 ## How to run
 
 1. Run the project.
 
-  * Xcode → Product → Run
+    * Xcode → Product → Run
 
-  * This is simply to verify that the project runs so far.
+    * This is simply to verify that the project runs so far.
 
 1. The Simulator launches.
 
-  * The Simulator shows a blank screen.
+    * The Simulator shows a blank screen.
 
-  * Quit the Simulator and go back to using Xcode.
+    * Quit the Simulator and go back to using Xcode.
 
 
 ## How to create the label
 
 1. Open the view.
 
-  * In the left Xcode column, Tap the icon "Main.storyboard".
+    * In the left Xcode column, Tap the icon "Main.storyboard".
 
-  * In the next Xcode column, Tap the icon "View Controller Scene", then "View Controller", then "View".
+    * In the next Xcode column, Tap the icon "View Controller Scene", then "View Controller", then "View".
 
-  * In the central Xcode column, you see the "View Controller" layout area, and the view box is all blue, which means it is selected.
+    * In the central Xcode column, you see the "View Controller" layout area, and the view box is all blue, which means it is selected.
 
 1. Add a label.
 
-  * In the lower-right Xcode area, there is a library picker, with four icons that have rollover tool tips: "Show the File Template library", "Show the Code Snippet library", "Show the Object library", "Show the Media library".
+    * In the lower-right Xcode area, there is a library picker, with four icons that have rollover tool tips: "Show the File Template library", "Show the Code Snippet library", "Show the Object library", "Show the Media library".
 
-  * Tap the circle icon "Show the Object Library".
+    * Tap the circle icon "Show the Object Library".
 
-  * Scroll until you see the "Label" item.
+    * Scroll until you see the "Label" item.
 
-  * Drag-and-drop the "Label" item to the middle of the View Controller layout area.
+    * Drag-and-drop the "Label" item to the middle of the View Controller layout area.
 
-  * Double-tap the label to edit the text; edit the text to say "Hello World".
+    * Double-tap the label to edit the text; edit the text to say "Hello World".
 
 
 ## How to center the label
 
 1. Center the label by adding constraints.
 
-  * Control-tap-press the label, and drag right. This pops up a menu. Choose "Center Vertically in Container"
+    * Control-tap-press the label, and drag right. This pops up a menu. Choose "Center Vertically in Container"
 
-  * Control-tap-press the label, and drag down. This pops up a menu. Choose "Center Horizontally in Container"
+    * Control-tap-press the label, and drag down. This pops up a menu. Choose "Center Horizontally in Container"
 
 1. Update.
 
-  * In the central Xcode column, in the lower right area, tap the icon that is a refresh circle arrow, with the tool tip "Update Frames".
+    * In the central Xcode column, in the lower right area, tap the icon that is a refresh circle arrow, with the tool tip "Update Frames".
 
-  * The text field resets to its constraints, which make it the correct size, and center it in the view.
+    * The text field resets to its constraints, which make it the correct size, and center it in the view.
 
 
 ## How to run
 
 1. Run the project.
 
-  * Xcode → Product → Run
+    * Xcode → Product → Run
 
 1. The Simulator launches.
 
-  * The Simulator shows "Hello World".
+    * The Simulator shows "Hello World".
 
-  * Congratulations! You're successful!
+    * Congratulations! You're successful!
   
 
 ## Tracking
