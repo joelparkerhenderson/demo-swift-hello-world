@@ -13,7 +13,7 @@ This demonstration shows:
 
 There are multiple git branches so pick the one you want:
 
-  * swift-4-xcode-9: Swift version 4, Xcode version 9, iOS version 9.
+  * swift-4-xcode-9: Swift version 4, Xcode version 9, iOS version 11.
 
   * swift-3-xcode-8: Swift version 3, Xcode version 8, iOS version 10.
 
