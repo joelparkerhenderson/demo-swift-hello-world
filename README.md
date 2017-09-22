@@ -4,22 +4,24 @@
 
 This demonstration shows:
 
-  * The [Swift](http://swift.org) programming language with
+  * [Swift](http://swift.org) programming language with
     [Apple](http://apple.com)
-    [iOS](http://www.apple.com/ios/) and
     [Xcode](https://developer.apple.com/xcode/)
+    [iOS](http://www.apple.com/ios/)
 
   * How to create a view that shows "Hello World" on the screen.
 
-There are multiple git branches, so pick the one you want:
+There are multiple git branches so pick the one you want:
 
-  * swift-3: Swift version 3, iOS version 8, Xcode version 10.
+  * swift-4-xcode-9: Swift version 4, Xcode version 9, iOS version 9.
 
-  * swift-4: Swift version 4, iOS version 9, Xcode version 11. All beta.
+  * swift-3-xcode-8: Swift version 3, Xcode version 8, iOS version 10.
 
-Your can get the project by cloning this repo.
+To use this project:
 
-Or if you prefer to learn how to create the project yourself, then this README explains how to do it.
+  * You can clone this repo.
+
+  * Or you can create the project yourself by using this README that explains how to do it.
 
 
 ## How to create the project
@@ -34,65 +36,109 @@ Or if you prefer to learn how to create the project yourself, then this README e
 
   * Choose the "Single View Application" icon.
 
-  * Click the button "Next".
+  * Tap the button "Next".
 
 1. You see the dialog "Choose options for your new project".
 
   * For "Product Name", type "Demo Swift Hello World".
 
-  * For "Organization Name", type your own, typical a company name, team name, or similiar. For example, "My Example Company Name".
+  * For "Organization Name", type anything you want; typically this is your company's name, or team's name, or similiar. For example, "Example Company".
 
-  * For "Organization Identifier", type your own, typically a reverse-domain-name. For example, "com.example".
+  * For "Organization Identifier", type anything you want; typically this is your company's reverse domain name. For example, "com.example".
 
-  * Click the button "Next".
+  * Tap the button "Next".
 
 1. You see the file chooser.
 
   * Choose where to save your project.
 
-  * Click the button "Create".
+  * Tap the button "Create".
 
-1. If Xcode prompts you to choose a development team, then do it.
+  * Xcode creates the project.
+
+
+## How to sign the project
+
+1. If Xcode shows a "Signing" area with a "Status" alert icon, here's how to solve it.
+
+  * Xcode may show a message such as "Signing for "Demo Swift Hello World" requires a development team. Select a development team in the project editor."
+
+  * In the same "Signing" section, choose the "Team" dropdown, and choose your Apple ID.
+
+  * If there's no Apple ID, then you need to add yours: Xcode → Preferences → Accounts → the "+" button → Add Apple ID
+
+
+## How to run
+
+1. Run the project.
+
+  * Xcode → Product → Run
+
+  * This is simply to verify that the project runs so far.
+
+1. The Simulator launches.
+
+  * The Simulator shows a blank screen.
+
+  * Quit the Simulator and go back to using Xcode.
 
 
 ## How to create the label
 
 1. Open the view.
 
-  * In the left Xcode column, click the icon "Main.storyboard".
+  * In the left Xcode column, Tap the icon "Main.storyboard".
 
-  * In the next Xcode column, click the icon "View Controller Scene", then "View Controller", then "View".
+  * In the next Xcode column, Tap the icon "View Controller Scene", then "View Controller", then "View".
 
-  * In the central Xcode column, you see the "View Controller" layout area.
+  * In the central Xcode column, you see the "View Controller" layout area, and the view box is all blue, which means it is selected.
 
 1. Add a label.
 
-  * In the lower-right Xcode area, scroll until you see the "Label" item.
+  * In the lower-right Xcode area, there is a library picker, with four icons that have rollover tool tips: "Show the File Template library", "Show the Code Snippet library", "Show the Object library", "Show the Media library".
+
+  * Tap the circle icon "Show the Object Library".
+
+  * Scroll until you see the "Label" item.
 
   * Drag-and-drop the "Label" item to the middle of the View Controller layout area.
 
-  * Edit the label text to say "Hello World".
+  * Double-tap the label to edit the text; edit the text to say "Hello World".
+
 
 ## How to center the label
 
 1. Center the label by adding constraints.
 
-  * Control-click-press the label and drag right, which triggers a popup menu; choose "Center Vertically in Container"
+  * Control-tap-press the label and drag right, which triggers a popup menu; choose "Center Vertically in Container"
 
-  * Control-click-press the label and drag down, which triggers a popup menu; choose "Center Horizontally in Container"
+  * Control-tap-press the label and drag down, which triggers a popup menu; choose "Center Horizontally in Container"
 
-1. Refresh the view by resetting the constraints.
+1. Update.
 
-  * In the central Xcode column, in the lower right area, click the icon that is a triangle between two vertical lines, which triggers a popup menu; choose "Reset to Suggested Contraints".
+  * In the central Xcode column, in the lower right area, tap the icon that is a refresh circle arrow, with the tool tip "Update Frames".
 
   * The text field resets to its constraints, which make it the correct size, and center it in the view.
 
 
+## How to run
+
+1. Run the project.
+
+  * Xcode → Product → Run
+
+1. The Simulator launches.
+
+  * The Simulator shows "Hello World".
+
+  * Congratulations, you're successful!
+  
+
 ## Tracking
 
 * Package: demo_swift_hello_world
-* Version: 2.0.0
+* Version: 3.0.0
 * Created: 2016-04-09
-* Updated: 2016-09-18
+* Updated: 2017-09-18
 * License: BSD, GPL, MIT
-* Contact: Joel Parker Henderson (joel@joelparkerhenderson.com)
+* Contact: Joel Parker Henderson (http://joelparkerhenderson.com)
