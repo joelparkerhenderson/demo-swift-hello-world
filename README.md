@@ -110,9 +110,9 @@ To use this project:
 
 1. Center the label by adding constraints.
 
-  * Control-tap-press the label and drag right, which triggers a popup menu; choose "Center Vertically in Container"
+  * Control-tap-press the label, and drag right. This pops up a menu. Choose "Center Vertically in Container"
 
-  * Control-tap-press the label and drag down, which triggers a popup menu; choose "Center Horizontally in Container"
+  * Control-tap-press the label, and drag down. This pops up a menu. Choose "Center Horizontally in Container"
 
 1. Update.
 
@@ -131,7 +131,7 @@ To use this project:
 
   * The Simulator shows "Hello World".
 
-  * Congratulations, you're successful!
+  * Congratulations! You're successful!
   
 
 ## Tracking
