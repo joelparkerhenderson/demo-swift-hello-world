@@ -13,6 +13,8 @@ This demonstration shows:
 
 There are multiple git branches so pick the one you want:
 
+  * master: current Swift, Xcode, iOS; equivalent to branch swift-4-xocde-9.
+
   * swift-4-xcode-9: Swift version 4, Xcode version 9, iOS version 11.
 
   * swift-3-xcode-8: Swift version 3, Xcode version 8, iOS version 10.
@@ -110,9 +112,9 @@ Add a label.
 
 Center the label by adding constraints.
 
-  * Control-tap-press the label, and drag right. This pops up a menu. Choose "Center Vertically in Container"
+  * Control-tap-press the label, and drag right. This pops up a menu. Choose "Center Vertically in a Safe Area"
 
-  * Control-tap-press the label, and drag down. This pops up a menu. Choose "Center Horizontally in Container"
+  * Control-tap-press the label, and drag down. This pops up a menu. Choose "Center Horizontally in a Safe Area"
 
 Update.
 
@@ -137,8 +139,8 @@ The Simulator launches.
 ## Tracking
 
 * Package: demo_swift_hello_world
-* Version: 3.0.0
+* Version: 4.0.0
 * Created: 2016-04-09
-* Updated: 2017-09-18
+* Updated: 2017-09-27
 * License: BSD, GPL, MIT
 * Contact: Joel Parker Henderson (http://joelparkerhenderson.com)
